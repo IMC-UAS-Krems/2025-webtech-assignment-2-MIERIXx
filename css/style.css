@@ -20,7 +20,7 @@ header {
 }
 /* Photo section */
 .photo-section {
-  background-image: url("imgs/volunteer-helping-person-need-with-provisions\ \(1\).jpg");
+  background-image: url("../imgs/volunteer-helping-person-need-with-provisions\ \(1\).jpg");
   background-size: cover;
   background-position: center;
   min-height: 600px;
@@ -309,15 +309,15 @@ header {
 /* Fonts */
 @font-face {
   font-family: "ClearSansMedium";
-  src: url("../fonts/ClearSans-Medium.ttf");
+  src: url(../fonts/ClearSans-Medium.ttf);
 }
 
 @font-face {
   font-family: "ClearSansBold";
-  src: url(/fonts/ClearSans-Bold.ttf);
+  src: url(../fonts/ClearSans-Bold.ttf);
 }
 
 @font-face {
   font-family: "ClearSansLight";
-  src: url(/fonts/ClearSans-Light.ttf);
+  src: url(../fonts/ClearSans-Light.ttf);
 }
